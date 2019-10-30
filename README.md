@@ -1,4 +1,4 @@
-### Example studio demonstrating custom asset select components
+## Example studio demonstrating custom asset select components
 
 This studio utilises the draft `asset-browser` package and consists of a single document type highlighting:
 
@@ -6,7 +6,7 @@ This studio utilises the draft `asset-browser` package and consists of a single 
 2. An un-styled, barebones example showing basic pagination, and support for deleting multiple assets
 3. A 'bells-and-whistles' example showing the above, with support for multiple views, custom sorting and basic filtering options
 
-#### Setup
+### Setup
 
 ```
 // Clone and init fork
